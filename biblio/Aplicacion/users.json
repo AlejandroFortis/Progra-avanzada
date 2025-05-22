@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Yael",
+        "libros_prestados": [],
+        "penalizaciones": 0
+    },
+    {
+        "nombre": "Max",
+        "libros_prestados": [],
+        "penalizaciones": 0
+    },
+    {
+        "nombre": "Fatima",
+        "libros_prestados": [],
+        "penalizaciones": 0
+    }
+]
